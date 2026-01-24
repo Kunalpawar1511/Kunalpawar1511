@@ -18,7 +18,7 @@
 
 ---
 
-### 📌 Goals for 2025
+### 📌 Goals for 2026
 - Build projects in *Python + Java + Web*
 - Create a strong GitHub portfolio
 - Learn backend + work on real-world apps
